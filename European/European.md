@@ -1,9 +1,9 @@
 # Bay Ridge Restaurant Guide
-## Asian
+## European
 ---
-Select a specific Asian food:
-## Greek
-## Mediterranean
+Select a specific European food:
+## [Greek](greek.md)
+## [Mediterranean](European.md)
 
 ---
-start over 
+[Start Over](../home.md)
