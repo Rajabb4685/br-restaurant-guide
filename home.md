@@ -8,4 +8,4 @@ What kind of food are you hungry for?
 
 ## [European](european/european.md)
 
-## [South American](south-american.md)
+## [South American](south-american/south-american.md)
