@@ -7,5 +7,5 @@ Select a restaurant:
 ## [Something Greek](https://menupages.com/somethingreek/7616-3rd-ave-brooklyn)
 
 ---
-[Back to European](European.md)  
+[Back to European](european.md)  
 [Start Over](../home.md)
