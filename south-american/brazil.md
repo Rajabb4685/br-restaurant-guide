@@ -6,5 +6,5 @@ Select a restaurant:
 ## [Santo Bruklin](https://www.yelp.com/biz/santo-bruklin-new-york-3)
 
 ---
-[back to south american ](south-aerican.md)
+[back to south american ](south-american.md)
 [Start Over](../home.md)
